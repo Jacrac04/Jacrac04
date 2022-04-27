@@ -1,3 +1,4 @@
+[![Visits Badge](https://badges.pufler.dev/visits/Jacrac04/Jacrac04)](https://github.com/Jacrac04)
 # Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 My name is Jacob and I'm a student studying Computer Scince, Maths and Physics. 
 ## 🔧 Technologies & Tools
