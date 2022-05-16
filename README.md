@@ -1,7 +1,7 @@
 [![Visits Badge](https://badges.pufler.dev/visits/Jacrac04/Jacrac04)](https://github.com/Jacrac04)
 [![Years Badge](https://badges.pufler.dev/years/Jacrac04)](https://github.com/Jacrac04)
 # Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is Jacob and I'm a student studying Computer Scince, Maths and Physics. 
+My name is Jacob and I'm a student studying Computer Science, Maths and Physics. 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=blue)
 
