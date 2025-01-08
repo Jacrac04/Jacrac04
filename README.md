@@ -13,7 +13,7 @@ My name is Jacob and I'm a student at Sputhampton Uni studying Computer Science 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jacrac04&theme=github_dark&exclude_repo=&  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jacrac04&theme=github_dark&exclude_repo=&langs_count=3"/>
 </a>
 
-<a href="https://github.com/Jacrac04/DFM-Bot">
+<a href="https://github.com/Jacrac04/SORM">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=Jacrac04&repo=DFM-Bot&show_owner=True&theme=github_dark" />
 </a>
 
