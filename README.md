@@ -14,7 +14,7 @@ My name is Jacob and I'm a student at Sputhampton Uni studying Computer Science 
 </a>
 
 <a href="https://github.com/Jacrac04/SORM">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=Jacrac04&repo=DFM-Bot&show_owner=True&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=Jacrac04&repo=SORM&show_owner=True&theme=github_dark" />
 </a>
 
 
